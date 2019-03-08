@@ -1,0 +1,42 @@
+films:
+- actors: [Brie Larson, ' Samuel L. Jackson', ' Gemma Chan', ' Mckenna Grace']
+  director: Anna Boden, Ryan Fleck
+  distributor: Buena Vista
+  genre: [Action / Adventure]
+  imdb_id: tt4154664
+  mojo_id: marvel2019a
+  mpaa_rating: PG-13
+  plot: Carol Danvers becomes one of the universe's most powerful heroes when Earth
+    is caught in the middle of a galactic war between two alien races.
+  poster_url: https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_SX300.jpg
+  release_date: 2019-03-08
+  runtime: 128
+  title: Captain Marvel
+  website: https://www.facebook.com/CaptainMarvelOfficial/
+  writer: [Anna Boden, ' Ryan Fleck', ' Geneva Robertson-Dworet', ' Nicole Perlman',
+    ' Meg LeFauve', ' Anna Boden', ' Ryan Fleck', ' Geneva Robertson-Dworet']
+  youtube_id: 0UUeH8DF8uA
+- actors: [Amandeep Singh, ' Suhail Nayyar', ' Manoj Mehra', ' Dinesh Kumar']
+  director: Anthony Maras
+  distributor: Bleecker Street
+  genre: [Drama]
+  imdb_id: tt5461944
+  mojo_id: hotelmumbai
+  mpaa_rating: R
+  plot: The true story of the Taj Hotel terrorist attack in Mumbai. Hotel staff risk
+    their lives to keep everyone safe as people make unthinkable sacrifices to protect
+    themselves and their families.
+  poster_url: https://m.media-amazon.com/images/M/MV5BYTJlZWY2YjYtZGIxMy00MDEwLTliNzMtZGM3MDQ1NzlmNDY1XkEyXkFqcGdeQXVyNDY2MjcyOTQ@._V1_SX300.jpg
+  release_date: 2019-03-22
+  runtime: 125
+  title: Hotel Mumbai
+  writer: [John Collee, ' Anthony Maras']
+  youtube_id: ucYIwvZYGp8
+owners:
+- {owner_id: alan, owner_name: Alan}
+- {owner_id: smithee, owner_name: Smithee}
+seasons:
+- {name: Summer 2019, season: summer, season_id: summer-2019, year: '2019'}
+teams:
+- {owner_id: alan, season_id: summer-2019, team_id: alan-pictures, team_name: Alan Pictures, team_uid: alan-summer-2019}
+- {owner_id: smithee, season_id: summer-2019, team_id: smithee-studios, team_name: Smithee Studios, team_uid: smithee-summer-2019}
