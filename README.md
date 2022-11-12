@@ -21,7 +21,7 @@ To send a randomly chosen move for draft, use option 1
 
 The command line will let you know that bidding is starting, and it will send a message to the draft webhook url.
 
-!![](media/slack-next-film.png)
+<img src="media/slack-next-film.png" height="600">
 
 When the bidding ends, the console will ask (and ask for confirmation) of who won and for how much. 
 
@@ -29,11 +29,11 @@ When the bidding ends, the console will ask (and ask for confirmation) of who wo
 
 Once entered, it will record that info and pass it to the Slack channel:
 
-![](media/slack-wining-bid.png)
+<img src="media/slack-wining-bid.png" height="600">
 
 The message will reference a link to #draftstatusboard, which shows the resulting draft status.
 
-![](media/slack-draft-status-board.png)
+<img src="media/slack-draft-status-board.png" height="600">
 
 # Project Status
 
